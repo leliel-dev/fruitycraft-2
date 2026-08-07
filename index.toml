@@ -416,6 +416,11 @@ hash = "ff9375815700853241baecc0985a5348aa44f9c5ba685afb595e22d754bf5bf5"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "fef2f8085bbdf6d398b02c87225ad9ccf9cc5d71edde13cd18e12a154764c84e"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
 metafile = true
