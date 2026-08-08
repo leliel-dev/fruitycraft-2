@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerulean-advancements.pw.toml"
-hash = "a2947350bef0483c5ea9f059fc609d0d61ea5ec61c2cebccfd2ef05e95d51178"
+hash = "84ad276edbae5b2419d5dc8a71a204062685904b881f724cbc2097bc9531c9f8"
 metafile = true
 
 [[files]]
@@ -121,6 +121,16 @@ hash = "1a1b83bffdef225c4c4c61bf1d1840881639d88e64160c672ee82dbb6e43415a"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "08a334ae5565e122d26b819cba16ce784776a10fe100ab2b22de72a5a2bac653"
+metafile = true
+
+[[files]]
+file = "mods/deeper-oceans.pw.toml"
+hash = "f796566fc58b6e3ec9cb594a769ba390ef9d1e34574f7f16408a6150ccc0785b"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
 metafile = true
@@ -143,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "f91c58dd28057838313e9bc2a23a8abab71fb9db7b9fdb63742267ae7fc51ed1"
+metafile = true
+
+[[files]]
+file = "mods/expanded-ecosphere.pw.toml"
+hash = "8498f075a6fce902aa9cb52981c7a4a70dd9a644a6e0f7abf65eba90f9ad012c"
 metafile = true
 
 [[files]]
@@ -178,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/gems-realm.pw.toml"
 hash = "f8eef1c338297f16e3dbcddd92a63d11130dde0b1823a43be276dcdb02f581b0"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
 metafile = true
 
 [[files]]
@@ -366,6 +386,11 @@ hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "9a94f2e57b081963d11a33a9be6435046bfb8720defac9d2cced4d37b3db7299"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "2b964b0915bc00d23421068b395763928311a533099e351e5f78c047e040b4f7"
 metafile = true
@@ -416,13 +441,8 @@ hash = "ff9375815700853241baecc0985a5348aa44f9c5ba685afb595e22d754bf5bf5"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "fef2f8085bbdf6d398b02c87225ad9ccf9cc5d71edde13cd18e12a154764c84e"
-metafile = true
-
-[[files]]
 file = "mods/too-fast.pw.toml"
-hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+hash = "49fb27f04c4ec26614fd121a7a8f7764d59949d0b6a3c32a63fb57fd2b3c8ea9"
 metafile = true
 
 [[files]]
