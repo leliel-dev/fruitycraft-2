@@ -191,11 +191,6 @@ hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
-file = "mods/gems-realm.pw.toml"
-hash = "f8eef1c338297f16e3dbcddd92a63d11130dde0b1823a43be276dcdb02f581b0"
-metafile = true
-
-[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
 metafile = true
