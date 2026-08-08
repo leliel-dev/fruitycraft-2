@@ -66,6 +66,11 @@ hash = "3a9295215e3a815a0dd459a04ca8e9ac39eefed7e6fa7c08eb53165f5f3b165b"
 metafile = true
 
 [[files]]
+file = "mods/cerulean-advancements.pw.toml"
+hash = "a2947350bef0483c5ea9f059fc609d0d61ea5ec61c2cebccfd2ef05e95d51178"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "09c4eef0fe467f04601c514ffc6ad805dd09ecb9975fce0f4b9792fbe56f0fde"
 metafile = true
@@ -133,11 +138,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "ac4cbc46bfffd2dcfac4eac2f03d93418abecdf38b2a266e57579c315987ac77"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
 
 [[files]]
